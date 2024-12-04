@@ -90,6 +90,7 @@ target/
 *.rdb
 *.csv
 *.tsv
+*.pkl
 
 # Pycharm
 .idea

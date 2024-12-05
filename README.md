@@ -60,6 +60,8 @@ The modeling notebook trains and evaluates machine learning models, including:
 - **Model Accuracy**: The trained models demonstrate improvements over naive predictions, with detailed results provided in the modeling notebook.
 - **Pitcher Insights**: Individual pitcher tendencies and predictive accuracy are explored, highlighting the variability in prediction performance across pitchers.
 
+![alt text](image.png)
+
 ---
 
 ## How to Run
